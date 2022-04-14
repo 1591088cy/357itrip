@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b60a510-e11b-45ff-bba9-021f543006f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\357-install\Maven-Data" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../357-install/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="E:\357-install\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25Y253lyUy8wb9oigBzJx53Xz7X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itripauth/target/classes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\357Itrip\itripauth\target\classes" />
+      <recent name="E:\357Itrip\itripdao\src\main\java\cn\itrip\dao" />
+      <recent name="E:\357Itrip\itripbeans\src\main\java\cn\itrip\pojo" />
+      <recent name="E:\357Itrip\itripbeans\src\main\java\cn\itirp\pojo" />
+      <recent name="E:\357Itrip\itripauth\src\main\java\com\bdqn\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.auth-8081">
+    <configuration name="FreemarkUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.Util.FreemarkUtil" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkUtil2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.Util.FreemarkUtil2" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auth-8081" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripauth" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="biz-8082" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripbiz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FreemarkUtil" />
+      <item itemvalue="Application.FreemarkUtil2" />
+      <item itemvalue="Maven.auth-8081" />
+      <item itemvalue="Maven.biz-8082" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FreemarkUtil2" />
+        <item itemvalue="Application.FreemarkUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b60a510-e11b-45ff-bba9-021f543006f0" name="Default Changelist" comment="" />
+      <created>1645689512415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645689512415</updated>
+      <workItem from="1645689515404" duration="3724000" />
+      <workItem from="1645767545442" duration="854000" />
+      <workItem from="1645768487857" duration="7331000" />
+      <workItem from="1645777330187" duration="3866000" />
+      <workItem from="1645793957117" duration="292000" />
+      <workItem from="1646027632931" duration="1063000" />
+      <workItem from="1646028805849" duration="7798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645778566892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645778566892" />
+    <state x="703" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645781802642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645781802642" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1645782768230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645782768230" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1646033400161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1646033400161" />
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1646045346796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646045346796" />
+    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1646045346796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646045346796" />
+    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1646045346796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646045346796" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1646045346796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646045346796" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1645689668828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645689668828" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1646028824147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646028824147" />
+    <state x="334" y="214" key="new project wizard" timestamp="1645692841295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1645692841295" />
+  </component>
+</project>
